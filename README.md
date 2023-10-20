@@ -6,11 +6,22 @@
   I'm a Data Analyst Associate🔰, and Data Analytics Enthusiast📊!
 </h2>
 <p>
-  I am passionate to Data Analytics. I love to extracting data and giving actionable insights. Visualizing data to a dashboard would be my point of interest.
+  I am passionate to Data Analytics. I love to extracting data and giving actionable insights. Visualizing data to a dashboard are my point of interest⌘.
 </p>
 
-###  Let's connect with me!
+###  🧑‍🤝‍🧑 Let's connect with me!
 
 <a href="https://www.linkedin.com/in/fidhiaaka/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fidhia | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/fidhiaaka"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Fidhia | Instagram" width="21px"/></a>
 </br>
+
+<h3> Projects </h3>
+- Data analytics project
+
+<h3> Technical skills </h3>
+- SQL
+- PostgreSQL
+- Python
+- Microsoft Excel/Google Sheets
+- Tableau
+- Google Data Studio
