@@ -12,3 +12,4 @@
   Let's connect with me!
 </h3>
 <a href=”https://www.linkedin.com/in/fidhiaaka/"><img align=”left” src=”https://github.com/anothaped/DA-portfolio/blob/6188f86f241814015ce9cce6e4dd6832711c6892/assets/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”fidhiaainunk@gmail.com"><img align=”left” src=”https://github.com/anothaped/DA-portfolio/blob/6188f86f241814015ce9cce6e4dd6832711c6892/assets/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
