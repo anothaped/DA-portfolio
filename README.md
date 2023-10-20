@@ -9,7 +9,7 @@
   I'm a Data Analyst Associate🔰, and Data Analytics Enthusiast📊!
 </h2>
 <p>
-  I am passionate to Data Analytics. I love to extracting data and giving actionable insights. Visualizing data to a dashboard are my point of interest⌘.
+  I am passionate to Data Analytics. I love to extracting data and giving actionable insights. Visualizing data to dashboards are my point of interest⌘.
 </p>
 
 ###  🧑‍🤝‍🧑 Let's connect with me!
