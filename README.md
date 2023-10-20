@@ -16,7 +16,7 @@
 </br>
 
 ### 🌻 Portfolio Decks
-- <a href="https://docs.google.com/presentation/d/1lyxvqLvSkRa9kgwNueMjadWI-5DFPVtNROfp8TK_2Cs/edit?usp=share_link" target="_blank" rel="noopener noreferrer"> Portfolio #1 </a>
+- <a href="https://docs.google.com/presentation/d/1lyxvqLvSkRa9kgwNueMjadWI-5DFPVtNROfp8TK_2Cs/edit?usp=share_link" target="_blank" rel="noreferrer"> Portfolio #1 </a>
 
 ### 📚 Projects
 - Data analytics project
