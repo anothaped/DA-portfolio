@@ -9,6 +9,6 @@
   I am passionate to Data Analytics. I love to extracting data and giving actionable insights. Visualizing data to a dashboard would be my point of interest.
 </p>
 <h3>
-  Let's connect with me!\n
-  <a href=”https://www.linkedin.com/in/fidhiaaka/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+  Let's connect with me!
 </h3>
+<a href=”https://www.linkedin.com/in/fidhiaaka/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
