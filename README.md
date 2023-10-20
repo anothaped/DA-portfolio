@@ -11,4 +11,4 @@
 <h3>
   Let's connect with me!
 </h3>
-<a href=”https://www.linkedin.com/in/fidhiaaka/"><img align=”left” src=”assets/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/fidhiaaka/"><img align=”left” src=”assets/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
