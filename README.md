@@ -1,3 +1,5 @@
-<h2 align=”center”>
-  Hi, I am Fidhia!🙌
-</h2>
+# Introduction
+
+<h3 align="center">
+  Hi, I'm Fidhia!🙌
+</h3>
