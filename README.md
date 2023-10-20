@@ -15,10 +15,10 @@
 <a href="https://instagram.com/fidhiaaka"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Fidhia | Instagram" width="21px"/></a>
 </br>
 
-<h3> Projects </h3>
+### 📚 Projects
 - Data analytics project
 
-<h3> Technical skills </h3>
+### 🛠️ Technical skills
 - SQL
 - PostgreSQL
 - Python
