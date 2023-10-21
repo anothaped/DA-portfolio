@@ -1,7 +1,3 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/anothaped/DA-portfolio/blob/a4a64898336591ba354f1ac51102588b702b6085/Colorful%20Pastel%20Modern%20Personal%20LinkedIn%20Banner.png" alt=”my banner”>
-</p>
-
 <h3 align="center">
   Hi, I'm Fidhia!🙌
 </h3>
