@@ -27,4 +27,4 @@
 - Python
 - Microsoft Excel/Google Sheets
 - Tableau
-- Google Data Studio
+- Google Looker Studio
